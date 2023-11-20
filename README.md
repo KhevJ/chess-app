@@ -2,7 +2,7 @@
 
 Welcome to the Chess App! This project is a simple yet engaging multiplayer chess application built using ReactJS for the client-side and ExpressJS with NodeJS for the server-side. The app uses TCP connection and implements socket.io for real-time communication between players.
 ## Testing
-This project was tested using both the regression testing and was also tested on SeleniumIDE.
+This project was tested using the regression testing and was also tested on SeleniumIDE.
 <br>
 ## Link to video demonstration
 
