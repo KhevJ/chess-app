@@ -44,7 +44,7 @@ Welcome to the Chess App! This project is a simple yet engaging multiplayer ches
    - Enjoy a seamless and interactive multiplayer chess experience facilitated by socket.io. Moves and game progress are communicated in real-time, providing a dynamic gaming atmosphere.
   
  ## Deployment
-
+ This project was deployed on Heroku.
  You can also use the deployed app here -> https://chess-game-8e69b6359bbf.herokuapp.com/
 
 
