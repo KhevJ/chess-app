@@ -7,16 +7,16 @@ const http = require('http');
 const app = express(); // initialize express
 app.use(express.static(path.join(__dirname, '../client', 'build')));
 app.get("/", function(req,res) {
-  // res.sendFile(
+  res.sendFile(
     
-  //   //,
-  //   // function(err){
-  //   //   if(err){
-  //   //     res.status(500).send(err);
-  //   //   }
-  //   // }
-  // )
-  res.sendFile(path.join(__dirname, '../client', 'build', 'index.html'));
+    //,
+    // function(err){
+    //   if(err){
+    //     res.status(500).send(err);
+    //   }
+    // }
+  )
+  //res.sendFile(path.join(__dirname, '../client', 'build', 'index.html'));
  
 }
 
