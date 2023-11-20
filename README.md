@@ -20,7 +20,7 @@ video demonstration -> https://drive.google.com/file/d/1OFAVk0T6QJqCFCiTSUbP1gxe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KhevJ/chess-app.git
+   git clone git@github.com:KhevJ/chess-app.git
 
 
 2. Navigate to the server directory
