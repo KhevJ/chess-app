@@ -36,7 +36,7 @@ const io = new Server(server, {
 const rooms = new Map();
 
 // io.connection
-io.set('origins', '*:*');
+
 io.on('connection', (socket) => {
   console.log(socket.id, 'connected');
 
