@@ -45,7 +45,7 @@ Welcome to the Chess App! This project is a simple yet engaging multiplayer ches
   
  ## Deployment
 
- You can also use the deployed app here -> 
+ You can also use the deployed app here -> https://chess-game-8e69b6359bbf.herokuapp.com/
 
 
 
